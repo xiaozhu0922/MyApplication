@@ -19,7 +19,7 @@ public class PagerAdapter extends FragmentPagerAdapter {
         super(fm);
     }
 
-    //
+
     public void addFragment(Fragment fragment, String title) {
         mFragments.add(fragment);
         mTitles.add(title);
