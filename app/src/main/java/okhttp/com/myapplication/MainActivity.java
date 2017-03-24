@@ -23,7 +23,6 @@ import fragment.TopFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    private Button ss;
 
     private Toolbar toolbar;
     private TabLayout tabLayout;
